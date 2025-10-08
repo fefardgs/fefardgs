@@ -32,7 +32,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 | Projeto               | Preview Online                        | Tecnologias Usadas        |
 |-----------------------|-------------------------------------|--------------------------|
-| **Meu Perfil ** | [🔗 Ver online](https://github.com/fefardgs/HtmlMeuPerfil). | HTML / CSS      |
+| **Meu Perfil** | [🔗 Ver online](https://github.com/fefardgs/HtmlMeuPerfil). | HTML / CSS      |
 | **Cubos Design** | [🔗 Ver online](https://github.com/fefardgs/FlexBoxCubos) |HTML/CSS|
 | **Servidor** | [🔗 Ver online](https://github.com/fefardgs/servidorIntelij) |INTELIJ        |
 
