@@ -1,3 +1,12 @@
+
+
+
+
+
+
+
+
+
 #  Oiee! Eu sou a Fernanda
 
 Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em  Front-End,  Banco de Dados,  etc.
@@ -32,7 +41,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 | Projeto               | Preview Online                        | Tecnologias Usadas        |
 |-----------------------|-------------------------------------|--------------------------|
-| **Meu Perfil** | [🔗 Ver online](https://github.com/fefardgs/HtmlMeuPerfil). | HTML / CSS      |
+| **Meu Perfil** | [🔗 Ver online](https://fefardgs.github.io/HtmlMeuPerfil) | HTML / CSS      |
 | **Cubos Design** | [🔗 Ver online](https://github.com/fefardgs/FlexBoxCubos) |HTML/CSS|
 | **Servidor** | [🔗 Ver online](https://github.com/fefardgs/servidorIntelij) |INTELIJ        |
 
