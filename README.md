@@ -34,7 +34,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 |-----------------------|-------------------------------------|--------------------------|
 | **Nome do Projeto 1** | [🔗 Ver online](https://github.com/fefardgs/HtmlMeuPerfil). | HTML / CSS      |
 | **Nome do Projeto 2** | [🔗 Ver online](https://github.com/fefardgs/FlexBoxCubos) |HTML/CSS|
-| **Nome do Projeto 3** | [🔗 Ver online](https://github.com/fefardgs/servidorIntelij) | Flutter / Dart           |
+| **Nome do Projeto 3** | [🔗 Ver online](https://github.com/fefardgs/servidorIntelij) |INTELIJ        |
 
 > 💡 Dica: Quando você publicar um projeto no GitHub Pages, coloque o link aqui!
 
@@ -44,7 +44,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 - 🎓 Atualmente estudo no **Sesi/SENAI**
 - 💻 Estou aprendendo **HTML, CSS, MYSQL, NETBEANS, INTELIJ**
-- 🎯 Meu objetivo é **Meu objetivo é se aprofundar ainda mais no mundo da tecnologia **
+- 🎯 Meu objetivo é **Meu objetivo é se aprofundar ainda mais no mundo da tecnologia**
 - 📚 Gosto de aprender sobre **Front-End**
 
 ---
