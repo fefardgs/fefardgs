@@ -44,7 +44,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 | **Meu Perfil** | [🔗 Ver online](https://fefardgs.github.io/HtmlMeuPerfil) | HTML / CSS      |
 | **Cubos Design** | [🔗 Ver online](https://github.com/fefardgs/FlexBoxCubos) |HTML/CSS|
 | **Servidor** | [🔗 Ver online](https://github.com/fefardgs/servidorIntelij) |INTELIJ        |
-| **Pagina API** | [🔗 Ver online]([https://github.com/fefardgs/servidorIntelij](https://github.com/fefardgs/Cria-o-e-consumo-de-API)) | JSON/ JS / HTML / CSS
+| **Pagina API** | [🔗 Ver online](https://github.com/fefardgs/Cria-o-e-consumo-de-API)) | JSON/ JS / HTML / CSS
 > 💡 Dica: Quando você publicar um projeto no GitHub Pages, coloque o link aqui!
 
 ---
