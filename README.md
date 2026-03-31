@@ -53,7 +53,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 - 🎓 Atualmente estudo no **Sesi/SENAI**
 - 💻 Estou aprendendo **HTML, CSS, MYSQL, NETBEANS, INTELIJ**
-- 🎯 Meu objetivo é **Meu objetivo é se aprofundar ainda mais no mundo da tecnologia**
+- 🎯 Meu objetivo é ** se aprofundar ainda mais no mundo da tecnologia**
 - 📚 Gosto de aprender sobre **Front-End**
 
 ---
